@@ -1,0 +1,6 @@
+@PercobaanApi1PostgreSQL_HostAddress = http://localhost:5003
+
+GET {{PercobaanApi1PostgreSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
